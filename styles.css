@@ -1,0 +1,79 @@
+.container-fluid{
+    padding:8% 15% 10% 15%;
+}
+
+.container-fluid h2{
+    margin-bottom: 30px;
+}
+
+.nav{
+    height:55px;
+}
+
+.home{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 90px;
+}
+
+.search{
+    padding-right: 250px;
+}
+
+.link{
+    margin-left: 150px;
+}
+
+.top{
+    margin-left:160px;
+}
+.lang{
+    margin-left: 8px;
+}
+.signin{
+    margin-left: 8px;
+}
+
+.carousel-item{
+    height:100vh;
+    min-height: 300px;
+    background: no-repeat scroll center scroll;
+    -webkit-background-size:cover;
+    background-size: cover;
+}
+
+.carousel-caption h5{
+    margin-bottom: 200px;
+    font-size: 120px;
+}
+
+.cardimg{
+    height:350px;
+    width:250px;
+}
+
+.wide{
+    width:252px;
+}
+
+ .cardown{
+    margin-bottom: 20px;
+}
+
+.abtimg{
+        display: block;
+        margin-top: 60px;
+        margin-bottom: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+      
+}
+
+p{
+    text-align: justify;
+}
+
+.table h3{
+    margin-bottom:30px;
+}
